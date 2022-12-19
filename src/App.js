@@ -2,7 +2,6 @@ import './App.css';
 import Employee from './components/employee'
 
 function App() {
-   console.log('we are about to list the employee');
    const showEmployees = true;
   return (
     <div className="App">
